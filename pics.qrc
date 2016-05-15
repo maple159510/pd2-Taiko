@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>MapleTaiko_Background.jpg</file>
+        <file>green.png</file>
+        <file>star.png</file>
+        <file>MapleTaiko_Background_2.png</file>
+        <file>punch.png</file>
+    </qresource>
+</RCC>
